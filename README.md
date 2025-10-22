@@ -76,10 +76,7 @@ Welcome to the **Advanced Laravel News Portal** - a robust, scalable, and featur
 
 > 📷 _Screenshots will be added here to showcase the application interface_
 
-<div align="center">
-  <img src="https://placehold.co/600x400/4A90E2/FFFFFF?text=Admin+Dashboard" alt="Admin Dashboard" width="45%">
-  <img src="https://placehold.co/600x400/50C878/FFFFFF?text=News+Homepage" alt="News Homepage" width="45%">
-</div>
+
 
 ---
 
