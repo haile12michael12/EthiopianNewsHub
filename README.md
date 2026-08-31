@@ -574,7 +574,7 @@ View
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/haile12michael12/Laravel-News-portal.git
+git clone https://github.com/haile12michael12/ethiopianewshub.git
 ```
 
 ## 2. Enter the project
@@ -722,31 +722,7 @@ php artisan test --filter=ArticleTest
 
 ---
 
-# 🚀 Production Deployment
 
-Recommended production environment:
-
-```text
-                    ┌───────────────┐
-                    │   CDN / WAF   │
-                    └───────┬───────┘
-                            │
-                    ┌───────▼───────┐
-                    │    Nginx      │
-                    └───────┬───────┘
-                            │
-                    ┌───────▼───────┐
-                    │    Laravel    │
-                    └───┬────────┬───┘
-                        │        │
-              ┌─────────▼─┐   ┌──▼──────┐
-              │   Redis   │   │  MySQL  │
-              └───────────┘   └─────────┘
-                        │
-                  ┌─────▼─────┐
-                  │   Queue   │
-                  │  Workers  │
-                  └───────────┘
 ```
 
 Production checklist:
