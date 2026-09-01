@@ -152,7 +152,7 @@ Supported languages can include:
 
 * 🇬🇧 English
 * 🇪🇹 Amharic
-* 🟢 Afaan Oromo
+
 
 The architecture can be extended to support additional languages.
 
@@ -180,36 +180,7 @@ Nehase 25, 2018
 
 ---
 
-# 🤖 AI-Powered Features
 
-EthioNewsHub can integrate modern AI capabilities to improve newsroom productivity.
-
-### AI Article Assistant
-
-* Generate article summaries
-* Generate headlines
-* Generate SEO titles
-* Generate meta descriptions
-* Extract keywords
-* Generate article tags
-* Grammar improvement
-* Content rewriting
-* Translation assistance
-* Related article recommendations
-
-### AI News Assistant
-
-```text
-Article
-   ↓
-AI Processing
-   ├── Summary
-   ├── Keywords
-   ├── SEO Metadata
-   ├── Categories
-   ├── Tags
-   └── Related Stories
-```
 
 ---
 
@@ -271,10 +242,6 @@ Top Performing Article
 ```
 
 ---
-
-# 💰 Monetization
-
-EthioNewsHub can support multiple revenue streams.
 
 ### Advertisement Management
 
@@ -396,21 +363,6 @@ Features include:
 
 ---
 
-# ⚡ Performance
-
-The platform can be optimized using:
-
-* Laravel Cache
-* Redis
-* Queue workers
-* Database indexing
-* Lazy loading
-* Eager loading
-* Image optimization
-* WebP images
-* CDN integration
-* Browser caching
-* API caching
 
 ---
 
@@ -435,7 +387,7 @@ The platform can be optimized using:
 ### Database
 
 * MySQL
-* PostgreSQL compatible architecture
+
 
 ### Infrastructure
 
